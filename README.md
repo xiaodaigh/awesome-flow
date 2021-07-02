@@ -3,6 +3,8 @@ anything flow base like flow chart libraries and flow based programming stuff
 
 | Tool                               | Description     | Paid | Comments |
 |------------------------------------|-----------------| -- | -- |
+| https://reactflow.dev/ | react | no | |
+| https://pypi.org/project/flowpy/ | python data | no | |
 | https://github.com/wbkd/react-flow | react component | No |  |
 | https://nodered.org/about/         | programming     | No |  |
 | https://jsplumbtoolkit.com/purchase       | js lib     | yes  |  |
